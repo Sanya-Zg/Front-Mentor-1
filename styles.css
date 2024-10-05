@@ -1,0 +1,38 @@
+body{
+    font-family: "Outfit", sans-serif;
+    max-width: 1440px;
+     max-height: 960px;
+     background-color: #D5E1EF;
+     margin: 0;
+     padding: 0;
+    }
+.container{
+    width: 20%;
+    background-color: #ffffff;
+    margin: 10% auto;
+    padding: 13px;
+    border-radius: 15px;
+}
+/* .img-container{
+    
+} */
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+h2{
+    color: #2C364A;
+    font-size: 15px;
+    
+}
+.description-container{
+    text-align: center;
+    margin: 18px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
